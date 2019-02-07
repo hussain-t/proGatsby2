@@ -24,7 +24,6 @@ const Layout = ({ children, location }) => (
         site {
           siteMetadata {
             title
-            language
           }
         }
         file(relativePath: {
